@@ -14,5 +14,19 @@
 }
 
 a{
-    color: beige;
+    color: cyan;
+}
+
+a:hover {
+    background-color: green;
+    color: white;
+}
+
+a:active {
+    background-color: red;
+    color: black;
+}
+
+a:visited {
+    font-size: 20px;
 }
