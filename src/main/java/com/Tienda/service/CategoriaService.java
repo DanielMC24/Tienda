@@ -19,6 +19,7 @@ public interface CategoriaService {
     
     //Se elimina un registro por su idCategoria
     public void delete(Categoria categoria);
+   
     
     
 }
